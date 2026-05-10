@@ -1,0 +1,2 @@
+patient_id,name,age,gender,contact,password,balance
+1,Ahsan,18,M,03234567890,Pass123,900000

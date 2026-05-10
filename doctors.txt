@@ -1,0 +1,2 @@
+doctor_id,name,specialization,contact,password,fee
+1,Ali Maz,Cardio,03237896789,Pass123,100000
